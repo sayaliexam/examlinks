@@ -1,0 +1,51 @@
+1) cisco packet :
+https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html
+or 
+https://www.netacad.com/resources/lab-downloads?courseLang=en-US
+
+2) wireshark :
+https://www.wireshark.org/download.html
+
+3) cryptool: 
+https://www.cryptool.org/en/ct1/downloads/
+
+4) process hacker :
+https://sourceforge.net/projects/processhacker/
+
+5) policy plus :
+https://github.com/Fleex255/PolicyPlus
+
+6) threat modeling :
+https://www.microsoft.com/en-us/download/details.aspx?id=49168
+
+7) Zap tool:
+https://www.zaproxy.org/download/
+
+8) Nmap :
+https://nmap.org/download
+
+9) Burp suite:
+https://portswigger.net/burp/communitydownload
+
+
+
+Pratiksha Hosur
+Fri, Nov 21, 9:04 PM (2 days ago)
+10) git bash : https://git-scm.com/install/windows
+
+Pratiksha Hosur
+Fri, Nov 21, 10:15 PM (2 days ago)
+Trivy: 1st) wget https://github.com/aquasecurity/trivy/releases/download/v0.66.0/trivy_0.66.0_Linux-64bit.deb 2rd) sudo dpkg -i trivy_0.66.0_Linux-64bit.deb pen
+
+Pratiksha Hosur <klsvppcs23pratiksha@gmail.com>
+Sat, Nov 22, 7:54 PM (16 hours ago)
+to Prachi, Ruchita, me
+
+Nessus : 
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+
+snaptube:
+https://www.snaptube.com/download-snaptube/
+
+Zarchiver:
+https://apkpure.net/zarchiver-2025/ru.zdevs.zarchiver/download#google_vignette
